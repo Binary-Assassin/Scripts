@@ -14,6 +14,10 @@ Useful references for wireless security testing.
 
 - **WPA2-PSK cracking with aircrack-ng**  
   https://www.hackers-arise.com/post/2017/06/27/Wireless-Hacking-Cracking-the-WPA2-PSK-with-aircrack-ng
+  
+- **How to Hack WPA2 and Defend Against These Attacks**
+  https://www.freecodecamp.org/news/wi-fi-hacking-101/
+
 
 ## WIFI-Deauth Attack
 ### S1. configuring monitoring mode
