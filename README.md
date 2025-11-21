@@ -1,7 +1,3 @@
-# Scripts
-Repositories for the scripts
+## Scripts
 
-
-# wireless hacking
-
-[wireless hacking material](./wireless_hacking.md)
+A simple collection of scripts I use forMY daily tasks and automation.
