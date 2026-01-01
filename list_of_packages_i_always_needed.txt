@@ -1,0 +1,12 @@
+
+# cmds
+# sudo apt-get install -y $(grep -vE '^\s*(#|$)' list_of_packages_i_always_needed.txt)
+
+# development-based-packages
+git
+python3-venv
+nuclei
+
+# web-hacking-tools
+sqlmap
+wpscan
