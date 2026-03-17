@@ -4,7 +4,7 @@ import ipaddress
 
 def sanitize_filename(name):
     """
-    Expected format: IP_port_recurrance
+    Expected format: IP_port_NumEvidence
     Example: 192.168.1.10_80_5
     """
     parts = name.split("_")
