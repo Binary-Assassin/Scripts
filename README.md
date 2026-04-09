@@ -1,6 +1,6 @@
 ## Scripts
 
-A simple collection of scripts I use forMY daily tasks and automation.
+will fixit if needed
 
 ## Resources
-*  [Wireless Pentesting](wireless_hacking.md)
+*  [wireless pentesting](/Readmes/wireless_hacking.md)
